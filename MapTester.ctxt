@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=map\ height\ width
+comment0.target=boolean\ mapTest(int[][],\ int,\ int)
+comment1.params=message\ n
+comment1.target=void\ log(java.lang.String,\ int)
+numComments=2
